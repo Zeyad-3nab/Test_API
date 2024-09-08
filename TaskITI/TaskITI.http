@@ -1,0 +1,6 @@
+@TaskITI_HostAddress = http://localhost:5121
+
+GET {{TaskITI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
